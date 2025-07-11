@@ -106,6 +106,15 @@ public class swtc {
         ODI\t80\t1,732\t45.89\t3/9\t140     
         T20I\t92\t1,606\t29.63\t0/8\t79*
         """);
+    case 93 -> System.out.println("""
+        Jasprit Bumrah:
+         Career Bowling : Formats Comparison
+        Format\tMatches\tWickets\tAvg\tEconomy\tBest Bowling
+        Test\t30\t128\t21.99\t2.71\t6/33
+        ODI\t80\t125\t24.16\t4.70\t6/19
+        T20I\t60\t70\t20.00\t6.63\t4/24
+        """);            
+                   
 
           
             
@@ -120,22 +129,7 @@ public class swtc {
         }
 
             
-
-            
         }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
         }
