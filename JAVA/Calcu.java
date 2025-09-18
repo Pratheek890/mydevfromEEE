@@ -11,6 +11,7 @@ public class Calcu {
             int a = input.nextInt();
             int b = input.nextInt();
             if(op == '+'){
+                System.out.println("you have selected addition");
                 ans = a + b;
             }
             if(op == '-'){
